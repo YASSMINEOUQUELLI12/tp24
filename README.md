@@ -1,6 +1,4 @@
-# TP 24 : Conteneurisation Spring Angular
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cb987a30-b93e-4d2d-8915-38c5dce289b8" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/cfa00737-fb41-4742-b734-2f6be7851a6e" />
 
-## Démonstration
 
-<img width="1096" height="311" alt="tp241" src="https://github.com/user-attachments/assets/20283940-3a9a-426c-ad9d-4031fb9dbbd8" />
-<img width="1092" height="268" alt="tp242" src="https://github.com/user-attachments/assets/bca86d2a-eaac-45af-87eb-09c789483cfd" />
